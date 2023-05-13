@@ -1,5 +1,5 @@
-# Calculator-WebApp
-Calculator Web Application
+# Calculator-WebApp(Calculator Web Application)
+
 This web application is a simple calculator designed to perform basic arithmetic operations. It provides a user-friendly interface for users to input numbers and perform calculations conveniently. The calculator supports addition, subtraction, multiplication, and division operations.
 
 Features
